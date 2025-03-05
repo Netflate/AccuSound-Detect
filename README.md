@@ -42,7 +42,7 @@ Using your system's Stereo Mixer allows the application to listen to all system 
 
 This approach is more flexible and easier to set up:
 1. Download and install [Voicemeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm)
-2. Install the Virtual Audio Cable driver
+2. Install the [Virtual Audio Cable driver](https://vb-audio.com/Cable/)
 3. Configure specific applications to output through Voicemeeter
 4. Set the application to listen on the appropriate virtual input
 
